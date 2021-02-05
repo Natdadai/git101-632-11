@@ -1,4 +1,1 @@
-int main()
-{
-    pritf("hello");
-}
+hello git from e6bb7eb
