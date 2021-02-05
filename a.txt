@@ -1,5 +1,3 @@
-hello git
-
 int main()
 {
     pritf("hello");
